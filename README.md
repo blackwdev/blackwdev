@@ -37,4 +37,3 @@
 superbaby81230/superbaby81230 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![image](https://user-images.githubusercontent.com/130586413/232315508-20787e2d-5dad-47fc-9274-2fd119304e44.png)
