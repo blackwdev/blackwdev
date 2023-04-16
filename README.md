@@ -3,7 +3,7 @@
 
 > I'm an engineer and WEB developer
 <div align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=superbaby81230&show_icons=true&count_private=true"/>
+ <img src="https://github-readme-stats.vercel.app/api?username=superbaby81230&show_icons=true&count-private=true"/>
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=superbaby81230&layout=compact&count-private=true"/>
  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=superbaby81230&theme=github"/>
  <img src="http://github-readme-streak-stats.herokuapp.com?user=superbaby81230&theme=github&hide_border=true"/>
